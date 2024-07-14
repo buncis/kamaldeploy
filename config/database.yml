@@ -82,3 +82,5 @@ production:
   database: kamaldeploy_production
   username: kamaldeploy
   password: <%= ENV["KAMALDEPLOY_DATABASE_PASSWORD"] %>
+  host: <%= ENV["DB_HOST"] %>
+

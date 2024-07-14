@@ -1,0 +1,1 @@
+CREATE DATABASE kamaldeploy_production;

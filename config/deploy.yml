@@ -36,8 +36,8 @@ env:
     - REDIS_URL
 
 # Use a different ssh user than root
-# ssh:
-#   user: app
+ssh:
+  user: ubuntu
 
 # Configure builder setup.
 # builder:

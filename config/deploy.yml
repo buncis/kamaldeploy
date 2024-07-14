@@ -33,7 +33,6 @@ env:
     - KAMAL_REGISTRY_PASSWORD
     - RAILS_MASTER_KEY
     - POSTGRES_PASSWORD
-    - REDIS_URL
 
 # Use a different ssh user than root
 ssh:
